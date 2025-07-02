@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    <string name="edit">Digite o valor de N</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Série de Fibonacci:\n%s</string>
+    <string name="erro_digite_numero">Erro: Digite um número!</string>
+    <string name="erro_numero_invalido">Erro: Número inválido!</string>
+    <string name="erro_intervalo">Erro: Digite um número entre 1 e 19</string>
+</resources>
